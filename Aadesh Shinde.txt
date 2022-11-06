@@ -1,0 +1,9 @@
+This Project is done by Aadesh Shinde.
+
+The source code for Dialog box containing tender details of respective country is not found.
+It may require another libraries to access the contents in the dialog box.
+
+The Code and Output are for the Single Web Page that is provided to be Scrapped.
+
+Following is the provided webpage:
+https://opentender.eu/
